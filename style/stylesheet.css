@@ -2,7 +2,8 @@
 background-color: #191919;
 }
 body{
-
+  padding-left: 100px;
+  padding-right: 100px;
 }
 h1{
 font-size : 100pt;
