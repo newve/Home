@@ -1,0 +1,32 @@
+* {
+background-color: #191919;
+
+}
+body{
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+h1{
+font-size : 100pt;
+text-align: center;
+color:#5194F1;
+  line-height: 15pt;
+}
+h3{
+  font-size : 37pt;
+  text-align: center;
+  color: white;
+  line-height: 15pt;
+}
+span{
+  text-align: center;
+  color: white;
+}
+p{
+  text-align: center;
+}
+
+img{
+  text-align:center;
+}
