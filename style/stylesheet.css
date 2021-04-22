@@ -6,8 +6,8 @@ body{
    height: -webkit-fill-available;
 }
 html {
-     height: -webkit-fill-available;
-   }
+    height: -webkit-fill-available;
+  }
 h1{
 font-size : 100pt;
 text-align: center;
@@ -22,7 +22,7 @@ span{
   text-align: center;
   color: white;
 }
-p{
+div{
   text-align: center;
 }
 
